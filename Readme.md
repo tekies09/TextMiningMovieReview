@@ -22,7 +22,7 @@
 - 모험장르의 흥행 최상위 영화 , 흥행 최하위 영화의 감성 비교  
   
 
-**산출물 (화면 설계서 , 클래스다이어그램 등...)**
+**산출물 (발표자료, 최종보고서)**
 - [자세히](https://github.com/tekies09/TextMiningMovieReview/tree/master/outputs)
 
 ## 일정및팀원
