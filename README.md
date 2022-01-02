@@ -50,7 +50,7 @@
 - 단순회귀분석 및 형태소 분석등 머신러닝을 이용해 감성분석 제공
 
 ## 주요화면
-![캡처](https://github.com/tekies09/Happyhouse/blob/main/img/result.JPG)
+![캡처](https://github.com/tekies09/TextMiningMovieReview/blob/master/img/Main.PNG)
 
 ## 기술스택및환경
 
