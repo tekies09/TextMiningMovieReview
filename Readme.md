@@ -55,7 +55,10 @@
 ## 기술스택및환경
 
 **기술스택**
+  
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+  
 **개발환경**
 
 |환경|버전|설명|
